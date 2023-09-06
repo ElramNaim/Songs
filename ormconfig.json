@@ -1,0 +1,7 @@
+{
+  "type": "sqlite",
+  "database": "/songs/data/dev.sqlite3",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true,
+  "logging": true
+}

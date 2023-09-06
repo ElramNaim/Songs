@@ -1,0 +1,95 @@
+p: [
+   [
+    Song { 'Song Name': 'Crazy', Band: 'Aerosmith', Year: '1990' },
+     Song { 'Song Name': 'Kiss', Band: 'Prince', Year: '1986' },
+     Song {
+       'Song Name': 'Come As You Are',
+       Band: 'Nirvana',
+       Year: '1991'
+     }
+   ],
+   null,
+   null,
+   11
+]
+    Song {
+2023-09-05 20:54:26       'Song Name': 'With Or Without You',
+2023-09-05 20:54:26       Band: 'U2',
+2023-09-05 20:54:26       Year: '1988'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Billy Jean',
+2023-09-05 20:54:26       Band: 'Michael Jackson',
+2023-09-05 20:54:26       Year: '1982'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song { 'Song Name': 'Imagine', Band: 'John Lennon', Year: '1971' },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Bohemian Rhapsody',
+2023-09-05 20:54:26       Band: 'Queen',
+2023-09-05 20:54:26       Year: '1975'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Like a Rolling Stone',
+2023-09-05 20:54:26       Band: 'Bob Dylan',
+2023-09-05 20:54:26       Year: '1965'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Shape of You',
+2023-09-05 20:54:26       Band: 'Ed Sheeran',
+2023-09-05 20:54:26       Year: '2017'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Smells Like Teen Spirit',
+2023-09-05 20:54:26       Band: 'Nirvana',
+2023-09-05 20:54:26       Year: '1991'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26     Song {
+2023-09-05 20:54:26       'Song Name': 'Thriller',
+2023-09-05 20:54:26       Band: 'Michael Jackson',
+2023-09-05 20:54:26       Year: '1982'
+2023-09-05 20:54:26     },
+2023-09-05 20:54:26 song: [
+2023-09-05 20:54:26   Song { 'Song Name': 'Crazy', Band: 'Aerosmith', Year: '1990' },
+2023-09-05 20:54:26   Song { 'Song Name': 'With Or Without You', Band: 'U2', Year: '1988' },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Billy Jean',
+2023-09-05 20:54:26     Band: 'Michael Jackson',
+2023-09-05 20:54:26     Year: '1982'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song { 'Song Name': 'Imagine', Band: 'John Lennon', Year: '1971' },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Bohemian Rhapsody',
+2023-09-05 20:54:26     Band: 'Queen',
+2023-09-05 20:54:26     Year: '1975'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Like a Rolling Stone',
+2023-09-05 20:54:26     Band: 'Bob Dylan',
+2023-09-05 20:54:26     Year: '1965'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Shape of You',
+2023-09-05 20:54:26     Band: 'Ed Sheeran',
+2023-09-05 20:54:26     Year: '2017'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Smells Like Teen Spirit',
+2023-09-05 20:54:26     Band: 'Nirvana',
+2023-09-05 20:54:26     Year: '1991'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Thriller',
+2023-09-05 20:54:26     Band: 'Michael Jackson',
+2023-09-05 20:54:26     Year: '1982'
+2023-09-05 20:54:26   },
+2023-09-05 20:54:26   Song { 'Song Name': 'Kiss', Band: 'Prince', Year: '1986' },
+2023-09-05 20:54:26   Song {
+2023-09-05 20:54:26     'Song Name': 'Come As You Are',
+2023-09-05 20:54:26     Band: 'Nirvana',
+2023-09-05 20:54:26     Year: '1991'
+2023-09-05 20:54:26   }
+2023-09-05 20:54:26 ]
+2023-09-05 20:54:26 song: null
+2023-09-05 20:54:26 song: null
+2023-09-05 20:54:26 song: 11
+2023-09-05 20:54:26 []
